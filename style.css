@@ -1,0 +1,31 @@
+.descrição-produto{
+    background-color: orange;
+}
+
+
+
+/*IDs ou Identificadores no CSS/*
+
+/*(Para prorpiedades CSS iguais):
+#descrição-pc, #descrição-videogame{
+    background-color: orange;
+}
+*/
+
+
+/*Estilizando duas IDs separadas:
+#descrição-pc{
+    background-color: orange;
+}
+
+
+#descrição-videogame{
+    background-color: orange;
+}
+*/
+
+/*Estilizando apenas uma Id:
+#descrição{
+    background-color: orange;
+}
+*/
